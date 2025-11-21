@@ -157,7 +157,7 @@ header .nav-brand {
   font-size: var(--heading-font-size-s);
   font-weight: 700;
   line-height: 1;
-  background-color: var(--bg-color-white);
+  background-color: var(--bg-color-beige);
   margin: 0 auto;
   padding: 5px 1rem;
 }
